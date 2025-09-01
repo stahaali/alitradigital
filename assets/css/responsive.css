@@ -132,4 +132,8 @@
     {
         display: none !important;
     }
+    .mobile-process-div
+    {
+        margin-top:20px;
+    }
 }
