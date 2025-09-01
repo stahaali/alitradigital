@@ -30,7 +30,7 @@
         flex-wrap: wrap;
         height:0;
         transition: height 0.3s;
-        overflow: hide;
+        overflow: hidden;
     }
     .desktop-menu nav .collapse-menu.show
     {
