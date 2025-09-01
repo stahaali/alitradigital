@@ -96,7 +96,12 @@
     .form2
     {
         width:100%;
-        margin-top:20px;
+        margin-top:30px;
+        padding: 33px 28px 31px;
+    }
+    .title
+    {
+        font-size: 24px;
     }
     .mt23
     {
@@ -110,9 +115,10 @@
     {
         margin: 0px;
     }
-    .ptitle1, .ptitle2, .ptitle3, .ptitle4, .ptitle5
+    .ptitle1, .ptitle2, .ptitle3, .ptitle4, .ptitle5 
     {
-        margin-top: 0px;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
     .process-div:before, .process-div:after
     {
@@ -121,5 +127,9 @@
     section.cta-section .cta-div .custom-btn
     {
         float: none;   
+    }
+    section.ourprocess-section .lastdot:before
+    {
+        display: none !important;
     }
 }
