@@ -71,6 +71,23 @@
     {
         display: none;
     }
+    section.home-banner
+    {
+        height:1150px;
+    }
+    .tagline
+    {
+        padding: 10px 16px 10px 40px;
+
+    }
+    .tagline p
+    {
+        font-size: 14px;
+    }
+    .tagline:before
+    {
+        width: 20px;
+    }
     .mt23
     {
         margin: 0px;
