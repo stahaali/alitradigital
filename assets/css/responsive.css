@@ -75,6 +75,10 @@
     {
         height:1150px;
     }
+    .banner-details h1
+    {
+        font-size: 30px;
+    }
     .tagline
     {
         padding: 10px 16px 10px 40px;
