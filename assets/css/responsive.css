@@ -30,7 +30,7 @@
         flex-wrap: wrap;
         height:0;
         transition: height 0.3s;
-        overflow: hidden;
+        overflow: hide;
     }
     .desktop-menu nav .collapse-menu.show
     {
@@ -42,6 +42,8 @@
     }
     .desktop-menu nav ul li
     {
+        display: block;
+        width: 100%;
         margin-bottom: 7px;
     }
     .desktop-menu nav ul li:last-child
