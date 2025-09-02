@@ -149,6 +149,10 @@ section.ourprocess-section .lastdot:before
 {
     text-align: center;
 }
+.lowerfooter-list
+{
+    float: none;   
+}
 .mobile-margin22
 {
     margin-bottom: 20px;
