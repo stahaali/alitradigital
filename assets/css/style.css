@@ -116,6 +116,10 @@ a.logo img
     border-radius: 100px;
     background: #fff;
 }
+.mobile-talkbtn
+{
+    display: none;
+}
 
 /*home banner*/
 
