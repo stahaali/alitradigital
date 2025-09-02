@@ -145,6 +145,10 @@ section.ourprocess-section .lastdot:before
 {
     margin-top:20px;
 }
+.upper-footer
+{
+    margin:0px !important;
+}
 .lower-footer
 {
     text-align: center;
