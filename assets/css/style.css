@@ -770,6 +770,7 @@ section.faq-section .headingdiv h5:before
 
 footer
 {
+    overflow-x: hidden;
     position: relative;
     background:#0E2920;
 }
