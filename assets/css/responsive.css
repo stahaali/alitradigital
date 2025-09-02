@@ -39,7 +39,7 @@
 
   .desktop-menu nav .collapse-menu.show 
   {
-    height: auto;
+    height: 240px;
   }
 
   .desktop-menu nav .collapse-menu ul 
