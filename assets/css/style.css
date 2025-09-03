@@ -12,6 +12,7 @@ a
 p
 {
     font-family: "Manrope", sans-serif;
+    color: #263E35;
 }
 input
 {
@@ -474,6 +475,7 @@ section.service-section
 {
     font-size: 15px;
     height: 136px;
+    color: #263E35;
 }
 .service-btn
 {
@@ -635,6 +637,7 @@ section.ourprocess-section .line
 .ptitle1, .ptitle2, .ptitle3, .ptitle4, .ptitle5
 {
     margin-top: 100px;
+    color: #0E2920;
 }
 .lastdot
 {
@@ -667,6 +670,7 @@ section.cta-section
 .cta-div h3
 {
     font-weight: 700;
+    color: #0E2920;
 }
 .cta-div p
 {
