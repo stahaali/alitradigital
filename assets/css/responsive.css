@@ -161,4 +161,8 @@ section.ourprocess-section .lastdot:before
 {
     margin-bottom: 20px;
 }
+section.contact-banner .shape1
+{
+    width:100%;
+}
 }
