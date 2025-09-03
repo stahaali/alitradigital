@@ -165,4 +165,10 @@ section.contact-banner .shape1
 {
     width:100%;
 }
+.contact-img 
+{
+    display: block;
+    margin: auto;
+    width: max-content;
+}
 }
