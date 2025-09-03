@@ -952,6 +952,23 @@ section.contact-banner
     position: relative;
     height:400px;
 }
+section.contact-banner .banner-details h2
+{
+    position: relative;
+    text-transform: capitalize;
+    color:#0E2920;
+}
+section.contact-banner .banner-details h2::before
+{
+    content: '';
+    position: absolute;
+    top:0;
+    left:0;
+    width:5px;
+    height:5px;
+    border-radius: 100px;
+    background:#C74933;
+}
 section.contact-banner .shape1
 {
     position: absolute;
@@ -965,17 +982,6 @@ section.contact-banner .shape1
 .breadcum
 {
     position: relative;
-}
-.breadcum::before
-{
-    content: '';
-    position: absolute;
-    top:0;
-    left:0;
-    width:5px;
-    height:5px;
-    border-radius: 100px;
-    background:#C74933;
 }
 .breadcum ul
 {
