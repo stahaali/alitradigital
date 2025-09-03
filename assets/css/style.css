@@ -706,7 +706,7 @@ section.cta-section
 }
 .custom-btn:hover:before
 {
-    left: 100%;
+    left: 0;
     color:#fff;
 }
 .custom-btn i
