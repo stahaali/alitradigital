@@ -515,9 +515,9 @@ section.ourprocess-section .line
 {
     position: absolute;
     top: 51%;
-    left: 52%;
-    width: 66%;
-    height: 33%;
+    left: 50%;
+    width: 1%;
+    height: 120px;
     transform: translate(-50%, -50%);
 }
 .process-div
