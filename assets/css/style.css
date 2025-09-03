@@ -957,6 +957,9 @@ section.contact-banner .banner-details h2
     position: relative;
     text-transform: capitalize;
     color:#0E2920;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 section.contact-banner .banner-details h2::before
 {
