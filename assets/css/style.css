@@ -180,7 +180,7 @@ section.home-banner
     margin-bottom: 40px;
     font-weight: 700;
     font-size: 50px;
-    color: #0E2920;
+    margin-top: 21px;
 }
 .banner-details p 
 {
@@ -968,10 +968,10 @@ section.contact-banner .banner-details h2::before
 {
     content: '';
     position: absolute;
-    top: 10px;
+    top: 9px;
     left:0;
-    width: 8px;
-    height: 8px;
+    width: 7px;
+    height: 7px;
     border-radius: 100px;
     background:#C74933;
 }
