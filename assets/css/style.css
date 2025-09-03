@@ -956,6 +956,7 @@ section.contact-banner
 {
     position: relative;
     height:400px;
+    background:#F8F5ED;
 }
 section.contact-banner .banner-details h2
 {
