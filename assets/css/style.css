@@ -985,4 +985,13 @@ section.contact-banner .shape1
 .breadcum ul li
 {
     margin-right:5px;
+    list-style: none;
+    display: inline;
+    text-transform: capitalize;
+}
+.breadcum ul li a
+{
+    text-decoration: none;
+    color:#C74933;
+    text-transform: capitalize;
 }
