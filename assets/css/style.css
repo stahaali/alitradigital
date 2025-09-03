@@ -524,9 +524,8 @@ section.ourprocess-section .line
 {
     position: relative;
 }
-.process-div:before
+.process-div .line
 {
-    content: '';
     position: absolute;
     left:50%;
     top: 145px;
