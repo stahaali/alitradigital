@@ -455,8 +455,7 @@ section.service-section
 }
 .service-icon img 
 {
-    width: 84px;
-    height: 77px;
+    width: 100%;
 }
 .mb20
 {
